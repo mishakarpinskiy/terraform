@@ -2,7 +2,7 @@ aws-env/ssh-key.tpl
 
 m7-aws/terraform/01-ssh-public-key-config.tpl 
 
-*.DS_Store*
+.DS_Store
 
 # Local .terraform directories
 **/.terraform/*
